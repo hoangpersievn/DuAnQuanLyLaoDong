@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\Tools\bin\Debug\Tools.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\Tools\bin\Debug\Tools.pdb
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.pdb
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\Tools\bin\Debug\Tools.dll
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\Tools\bin\Debug\Tools.pdb
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.dll
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\Tools\obj\Debug\Tools.pdb

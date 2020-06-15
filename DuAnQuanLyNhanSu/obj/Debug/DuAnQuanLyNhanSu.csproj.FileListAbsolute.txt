@@ -1,0 +1,102 @@
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe.config
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.pdb
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.Form1.resources
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.exe
+C:\Users\Administrator\Desktop\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe.config
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.exe
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Design.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Fonts.dll
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.pdb
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.xml
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csprojResolveAssemblyReference.cache
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.Properties.Resources.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csproj.GenerateResource.Cache
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucDangNhap.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucManHinhChinh.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.FormMain.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHopDong.templateHopDong.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHopDongNhanVien.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhanVienThoiViec.resources
+E:\Khoa Hoc Moi\sourcecode\DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhapXuatNhanVien.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe.config
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.exe
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.pdb
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.pdb
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.FormMain.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucDangNhap.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucManHinhChinh.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHopDong.templateHopDong.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHopDongNhanVien.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhanVienThoiViec.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhapXuatNhanVien.resources
+C:\Users\Administrator\Desktop\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csproj.GenerateResource.Cache
+F:\HoangTruong\Dot Net\Other\Quan ly cham cong nhan vien\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe.config
+F:\HoangTruong\Dot Net\Other\Quan ly cham cong nhan vien\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.exe
+F:\HoangTruong\Dot Net\Other\Quan ly cham cong nhan vien\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.pdb
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe.config
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.exe
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.pdb
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.exe
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\DuAnQuanLyNhanSu.pdb
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Design.dll
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.dll
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\MetroFramework.Fonts.dll
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.xml
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csprojResolveAssemblyReference.cache
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.FormMain.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.Properties.Resources.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucDangNhap.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHeThong.ucManHinhChinh.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucHopDong.templateHopDong.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHopDongNhanVien.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhanVienThoiViec.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucNhapXuatNhanVien.resources
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.csproj.GenerateResource.Cache
+D:\Hoang Truong\Dot Net\Sample\Tai lieu\Tai lieu\27 DuAnQuanLyNhanSu\DuAnQuanLyNhanSu\obj\Debug\DuAnQuanLyNhanSu.ucNhanVien.ucQuanLyNhanVien.resources
